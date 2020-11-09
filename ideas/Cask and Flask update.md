@@ -115,6 +115,10 @@ Crafted with copper somehow, I'm not sure what the recipe is.
 * Projectile impact causes them to activate.
 * When they ring they emit a redstone signal.
 
+Recipe could be wood planks and copper.
 
+PPP
+C C
+C C
 
 
