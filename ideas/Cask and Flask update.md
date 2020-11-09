@@ -59,7 +59,7 @@ CCC
 ### Cooking pot: Misc
 
 * As you take food from the cooking pot, the level of the stew in the pot visually decreases
-* Adding food to the bot visually increases the level of the stew.
+* Adding food to the pot visually increases the level of the stew.
 * Extinguishing the fire means you can no longer add food to the pot, but you can still take contents.  Restoring the fire allows you to add food again.
 * Once a pot is completely empty (the last bowl of stew is taken), you have to add water to add more food.
 * Breaking a pot does **not** lose its contents.
@@ -91,7 +91,7 @@ CQC
 
 
 
-### Quadrant
+## Quadrant
 Crafted like:
 ```
   C
