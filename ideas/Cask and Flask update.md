@@ -116,9 +116,9 @@ Crafted with copper somehow, I'm not sure what the recipe is.
 * When they ring they emit a redstone signal.
 
 Recipe could be wood planks and copper.
-
+```
 PPP
 C C
 C C
-
+```
 
